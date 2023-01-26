@@ -8,7 +8,7 @@ package exercise1;
  * @author dancye
  * @author Paul Bonenfant Jan 25, 2022
  modifier kamal
- fetch+merge
+ fetch+merge branch code
  */
 public class CardTrick {
     
