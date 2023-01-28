@@ -88,7 +88,7 @@ public class CardTrick {
         
         System.out.println("My career ambitions:");
         System.out.println("-- Be more studious this semester and attain good GPA [ i.e. 4 :) ]");
-        System.out.println("-- Have a lot of fun this semester");
+        System.out.println("-- Have a lot of fun this semester and participate in co-curricular activities");
 	System.out.println();	
 
         System.out.println("My hobbies:");
