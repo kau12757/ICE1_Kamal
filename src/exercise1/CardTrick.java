@@ -93,7 +93,7 @@ public class CardTrick {
 
         System.out.println("My hobbies:");
         System.out.println("-- Cooking");
-        System.out.println("-- Watching TV");
+        System.out.println("-- Watching T.V.");
         System.out.println("-- Playing");
         System.out.println("-- Sleeping");
 
