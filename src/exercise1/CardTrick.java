@@ -6,7 +6,7 @@ package exercise1;
  * To be used as starting code in Exercise
  *
  * @author kamal
- * @author Kamaljeet Kaur Jan 25, 2022
+ * @author Kamaljeet Kaur Jan 25, 2023
  modifier kamal
  fetch+merge branch code
  */
@@ -76,7 +76,7 @@ public class CardTrick {
     /**
      * A simple method to print out personal information. Follow the instructions to 
      * replace this information with your own.
-     * @author Paul Bonenfant Jan 2022
+     * @author Kamaljeet Kaur Jan 2023
      */
     private static void printInfo() {
     
@@ -87,7 +87,7 @@ public class CardTrick {
         System.out.println();
         
         System.out.println("My career ambitions:");
-        System.out.println("-- Be more studious this semester and attain good GPA");
+        System.out.println("-- Be more studious this semester and attain good GPA [ i.e. 4 :) ]");
         System.out.println("-- Have a lot of fun this semester");
 	System.out.println();	
 
@@ -95,7 +95,7 @@ public class CardTrick {
         System.out.println("-- Cooking");
         System.out.println("-- Watching TV");
         System.out.println("-- Playing");
-        System.out.println("-- Singing");
+        System.out.println("-- Sleeping");
 
         System.out.println();
         
